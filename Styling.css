@@ -14,6 +14,7 @@ h1{
 
 p{
   color:#73cde3;
-  border-style: 5p dotted red 
+  border-width: 5px;
+  border-color: red;
 }
 
