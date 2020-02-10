@@ -7,10 +7,12 @@ body {
 h1{
   color:#bd68bf;
   background-image: url{"https://raw.githubusercontent.com/productdesigner987/Portfolio/master/gradientbackground2.jpg"};
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 p{
   color:#73cde3;
-  border: red;
+  border-style: 5p dotted red 
 }
 
