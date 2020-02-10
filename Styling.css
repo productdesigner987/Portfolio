@@ -9,6 +9,7 @@ h1{
   background-image: url{"https://raw.githubusercontent.com/productdesigner987/Portfolio/master/gradientbackground2.jpg"};
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
 }
 
 p{
